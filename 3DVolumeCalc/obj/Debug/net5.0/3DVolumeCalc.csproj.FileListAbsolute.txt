@@ -1,0 +1,15 @@
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.csproj.AssemblyReference.cache
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.AssemblyInfoInputs.cache
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.AssemblyInfo.cs
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.csproj.CoreCompileInputs.cache
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/3DVolumeCalc.deps.json
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/3DVolumeCalc.runtimeconfig.json
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/3DVolumeCalc.runtimeconfig.dev.json
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/3DVolumeCalc.dll
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/ref/3DVolumeCalc.dll
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/bin/Debug/net5.0/3DVolumeCalc.pdb
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.dll
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/ref/3DVolumeCalc.dll
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.pdb
+/Users/kamdenbolhuis/Documents/Coding/College/3DVolumeCalc/obj/Debug/net5.0/3DVolumeCalc.genruntimeconfig.cache
