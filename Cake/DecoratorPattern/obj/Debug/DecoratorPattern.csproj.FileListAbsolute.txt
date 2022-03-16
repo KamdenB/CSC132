@@ -1,0 +1,24 @@
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\EnhancedCompositePattern\bin\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\EnhancedCompositePattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\EnhancedCompositePattern\obj\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\EnhancedCompositePattern\obj\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.AssemblyReference.cache
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\PizzaFactory\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\Cake\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\Cake\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\Cake\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.AssemblyReference.cache
+A:\Coding\College\CSC132\Cake\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+A:\Coding\College\CSC132\Cake\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\Cake\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

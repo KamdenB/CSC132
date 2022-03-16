@@ -1,0 +1,32 @@
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\bin\Debug\ApplicationTester.exe
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\bin\Debug\ApplicationTester.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\bin\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\bin\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\obj\x86\Debug\ApplicationTester.csprojResolveAssemblyReference.cache
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\obj\x86\Debug\ApplicationTester.exe
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\CompositePattern\ApplicationTester\obj\x86\Debug\ApplicationTester.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\obj\x86\Debug\ApplicationTester.exe
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\obj\x86\Debug\ApplicationTester.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\bin\Debug\ApplicationTester.exe
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\bin\Debug\ApplicationTester.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\bin\Debug\DecoratorPattern.dll
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\bin\Debug\DecoratorPattern.pdb
+C:\Users\SkiBLE\Documents\Visual Studio 2010\Projects\DecoratorPattern\ApplicationTester\obj\x86\Debug\ApplicationTester.csprojResolveAssemblyReference.cache
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\bin\Debug\ApplicationTester.exe
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\bin\Debug\ApplicationTester.pdb
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\bin\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\bin\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.AssemblyReference.cache
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.CoreCompileInputs.cache
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.CopyComplete
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\obj\x86\Debug\ApplicationTester.exe
+A:\Coding\College\CSC132\PizzaFactory\ApplicationTester\obj\x86\Debug\ApplicationTester.pdb
+A:\Coding\College\CSC132\Cake\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.AssemblyReference.cache
+A:\Coding\College\CSC132\Cake\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.CoreCompileInputs.cache
+A:\Coding\College\CSC132\Cake\ApplicationTester\obj\x86\Debug\ApplicationTester.exe
+A:\Coding\College\CSC132\Cake\ApplicationTester\obj\x86\Debug\ApplicationTester.pdb
+A:\Coding\College\CSC132\Cake\ApplicationTester\bin\Debug\ApplicationTester.exe
+A:\Coding\College\CSC132\Cake\ApplicationTester\bin\Debug\ApplicationTester.pdb
+A:\Coding\College\CSC132\Cake\ApplicationTester\bin\Debug\DecoratorPattern.dll
+A:\Coding\College\CSC132\Cake\ApplicationTester\bin\Debug\DecoratorPattern.pdb
+A:\Coding\College\CSC132\Cake\ApplicationTester\obj\x86\Debug\ApplicationTester.csproj.CopyComplete

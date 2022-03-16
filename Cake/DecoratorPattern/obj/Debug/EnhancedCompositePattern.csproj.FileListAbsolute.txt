@@ -1,0 +1,4 @@
+c:\users\skible\documents\visual studio 2010\Projects\CompositePattern\EnhancedCompositePattern\bin\Debug\EnhancedCompositePattern.dll
+c:\users\skible\documents\visual studio 2010\Projects\CompositePattern\EnhancedCompositePattern\bin\Debug\EnhancedCompositePattern.pdb
+c:\users\skible\documents\visual studio 2010\Projects\CompositePattern\EnhancedCompositePattern\obj\Debug\EnhancedCompositePattern.dll
+c:\users\skible\documents\visual studio 2010\Projects\CompositePattern\EnhancedCompositePattern\obj\Debug\EnhancedCompositePattern.pdb

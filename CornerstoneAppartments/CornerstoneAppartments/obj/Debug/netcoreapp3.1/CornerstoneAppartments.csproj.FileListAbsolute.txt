@@ -1,0 +1,17 @@
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.exe
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.deps.json
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.runtimeconfig.json
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.runtimeconfig.dev.json
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.dll
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\bin\Debug\netcoreapp3.1\CornerstoneAppartments.pdb
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.csproj.AssemblyReference.cache
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.csproj.GenerateResource.cache
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.AssemblyInfoInputs.cache
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.AssemblyInfo.cs
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.csproj.CoreCompileInputs.cache
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.dll
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.pdb
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.genruntimeconfig.cache
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.CornerstoneApparments.resources
+C:\Users\kambo\source\repos\CornerstoneAppartments\CornerstoneAppartments\obj\Debug\netcoreapp3.1\CornerstoneAppartments.InformationForm.resources
