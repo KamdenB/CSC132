@@ -3,6 +3,8 @@ using System.IO;
 using System.Collections.Generic;
 using System.Globalization;
 
+using CsvHelper;
+
 namespace Bookstore
 {
     class Program
@@ -15,16 +17,17 @@ namespace Bookstore
             * https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
         **/
 
-
-        record Book(string ISBN, string BookTitle, string Author, string yearOfPublication, string Publisher, string imageUrlS, string imageUrlM, string imageUrlL);
+        record Book(string ISBN, string BookTitle, string Author, double YearOfPublication, string Publisher);
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader("books.csv");
-            List<string> books = new List<string>();
-            string book;
-            while((book = sr.ReadLine()) != null)
+            using var streamReader = File.OpenText("books.csv");
+            using var csvReader = new CsvReader(streamReader, CultureInfo.InvariantCulture);
+
+            var books = csvReader.GetRecords<Book>();
+
+            foreach(var book in books)
             {
-                books.Add(book);
+                Console.WriteLine(book);
             }
         }
     }
